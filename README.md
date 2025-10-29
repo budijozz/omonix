@@ -11,15 +11,15 @@ Initially, it was just that—a powerful, one-stop shop for origin manipulation.
 
 💖 Thank You - External Addon Integration
 
-I sincerely thank the creators of these exceptional addons. Their tools are so powerful that I chose to build them into the core of the Omonix workflow:
+I sincerely thank the creators of these exceptional addons. Their tools are so powerful that I choose to call them into the core of the Omonix workflow:
 
-QRemeshify by ksami (GitHub: https://github.com/ksami/QRemeshify): One-click Quad Remeshing directly from the Quick Tools panel.
+💖 QRemeshify by ksami (GitHub: https://github.com/ksami/QRemeshify): One-click Quad Remeshing directly from the Quick Tools panel.
 
-EdgeFlow by BenjaminSauder (GitHub: https://github.com/BenjaminSauder/EdgeFlow): Instantly calls the Edge Flow utility for clean topology in Edit Mode.
+💖 EdgeFlow by BenjaminSauder (GitHub: https://github.com/BenjaminSauder/EdgeFlow): Instantly calls the Edge Flow utility for clean topology in Edit Mode.
 
-MatColeX by budijozz (Blender Extensions: https://extensions.blender.org/add-ons/matcolex/): Direct access to the MatColeX panel for quick material application.
+💖 MatColeX by budijozz (Blender Extensions: https://extensions.blender.org/add-ons/matcolex/): Direct access to the MatColeX panel for quick material application.
 
-Place Helper by ACGGIT_LJ (Blender Extensions: https://extensions.blender.org/add-ons/placehelper/): Utilized by Smart Duplicate and Snap/Move to Pointer to provide the best interactive placement experience.
+💖 Place Helper by ACGGIT_LJ (Blender Extensions: https://extensions.blender.org/add-ons/placehelper/): Utilized by Smart Duplicate and Snap/Move to Pointer to provide the best interactive placement experience.
 
 Omonix automatically checks for these addons and enables the relevant button in the pie menu only if the tool is installed, ensuring a clean and powerful workflow.
 
