@@ -1,5 +1,6 @@
 # omonix
 Omonix Pie Menu : The Context-Aware Workflow Accelerator
+
 📜 Our Story: From a Simple Need to a Multi-Functional Tool
 The journey of Omonix started from a single, simple frustration: the tedious process of accurately setting an object's origin point in Blender. As a daily user, I realized that constantly accessing sub-menus to move the origin to the top, bottom, or center of an object was a massive workflow bottleneck. I just wanted a quick, accessible grid of options right under my mouse!
 
