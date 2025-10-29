@@ -2,13 +2,15 @@
 Omonix Pie Menu : The Context-Aware Workflow Accelerator
 
 📜 Our Story: From a Simple Need to a Multi-Functional Tool
+
 The journey of Omonix started from a single, simple frustration: the tedious process of accurately setting an object's origin point in Blender. As a daily user, I realized that constantly accessing sub-menus to move the origin to the top, bottom, or center of an object was a massive workflow bottleneck. I just wanted a quick, accessible grid of options right under my mouse!
 
 This simple desire was the spark that ignited this project, giving birth to OMONIX, which stands for Origin Mover.
 
 Initially, it was just that—a powerful, one-stop shop for origin manipulation. However, as my own projects evolved, so did the addon. I began integrating other critical functions to streamline my personal workflow, from smart snapping and duplication to essential Edit Mode operations. This little tool, born from a need for better origin control, has blossomed into a comprehensive, multi-functional accelerator designed to keep my (and now your) hands off the tedious menus and on the work.
 
-💖 Thank You & Seamless External Addon Integration
+💖 Thank You - External Addon Integration
+
 I sincerely thank the creators of these exceptional addons. Their tools are so powerful that I chose to build them into the core of the Omonix workflow:
 
 QRemeshify by ksami (GitHub: https://github.com/ksami/QRemeshify): One-click Quad Remeshing directly from the Quick Tools panel.
